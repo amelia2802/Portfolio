@@ -6,6 +6,14 @@ body{
 li{
   list-style: none;
 }
+
+@font-face {
+    font-family: 'Victorian Decade Demo Version';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Victorian Decade Demo Version'), url('https://fonts.cdnfonts.com/s/75653/Victorian Decade Demo Version.woff') format('woff');
+}
+
 /*navbar*/
 
 .fa-bars{
